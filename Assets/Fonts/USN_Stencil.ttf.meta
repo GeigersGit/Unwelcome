@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 89c30a79d8783e54186f2538db56c8cf
+timeCreated: 1502944065
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: USN_Stencil
+  fontNames:
+  - USN_Stencil
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

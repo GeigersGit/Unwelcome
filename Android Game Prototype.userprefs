@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GridPlacer.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AIKnight.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AIWizard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AIRogue.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerControls.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="56" Column="8" />
+      <File FileName="Assets\Scripts\FollowTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GoldCoin.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SwordScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Fireball.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HammerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WeaponPlacer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FramerateCounter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GridPlacer.cs" Line="52" Column="18" />
+      <File FileName="Assets\Scripts\TouchManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
